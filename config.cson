@@ -1,4 +1,6 @@
 "*":
+  "atom-clock":
+    showTooltip: true
   core:
     telemetryConsent: "no"
     useProxySettingsWhenCallingApm: false
