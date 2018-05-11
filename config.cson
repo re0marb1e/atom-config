@@ -5,8 +5,11 @@
     telemetryConsent: "no"
     useProxySettingsWhenCallingApm: false
   editor:
+    fontSize: 13
     tabLength: 4
   "exception-reporting":
     userId: "8bb95c8d-532b-4d9b-941c-e907066e2957"
+  "linter-ui-default":
+    panelHeight: 217
   welcome:
     showOnStartup: false
