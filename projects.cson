@@ -1,1 +1,41 @@
-[]
+[
+  {
+    title: "Backend"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Backend"
+    ]
+    devMode: true
+  }
+  {
+    title: "node-algorithm"
+    group: "Nodejs"
+    paths: [
+      "~/Documents/WorkHome/GitHub/node-algorithm"
+    ]
+    devMode: true
+  }
+  {
+    title: "tech-blog"
+    group: "Blog"
+    paths: [
+      "~/Documents/WorkHome/BitBucket/tech-blog"
+    ]
+  }
+  {
+    title: "Frontend"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Frontend"
+    ]
+    devMode: true
+  }
+  {
+    title: "alpha"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
+    ]
+    devMode: true
+  }
+]

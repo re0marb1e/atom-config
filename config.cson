@@ -6,6 +6,7 @@
   "atom-clock":
     showTooltip: true
   core:
+    packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
     useProxySettingsWhenCallingApm: false
   editor:
@@ -14,7 +15,12 @@
     userId: "8bb95c8d-532b-4d9b-941c-e907066e2957"
   "language-babel": {}
   "linter-ui-default":
-    panelHeight: 217
+    showPanel: true
+  "project-manager":
+    prettifyTitle: false
+    savePathsRelativeToHome: true
+  "todo-show":
+    statusBarIndicator: true
   welcome:
     showOnStartup: false
 ".coffee.jsx.source":
