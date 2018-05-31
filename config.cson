@@ -1,15 +1,26 @@
 "*":
+  "atom-beautify":
+    jsx:
+      indent_size: 2
+    markdown: {}
   "atom-clock":
     showTooltip: true
   core:
     telemetryConsent: "no"
     useProxySettingsWhenCallingApm: false
   editor:
-    fontSize: 13
     tabLength: 4
   "exception-reporting":
     userId: "8bb95c8d-532b-4d9b-941c-e907066e2957"
+  "language-babel": {}
   "linter-ui-default":
     panelHeight: 217
   welcome:
     showOnStartup: false
+".coffee.jsx.source":
+  editor:
+    autoIndent: true
+".js.jsx.source":
+  editor:
+    autoIndent: false
+    softWrap: true
