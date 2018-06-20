@@ -14,8 +14,7 @@
   "exception-reporting":
     userId: "8bb95c8d-532b-4d9b-941c-e907066e2957"
   "language-babel": {}
-  "linter-ui-default":
-    showPanel: true
+  "linter-ui-default": {}
   "project-manager":
     prettifyTitle: false
     savePathsRelativeToHome: true
