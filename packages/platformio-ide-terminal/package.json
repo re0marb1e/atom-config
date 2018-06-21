@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+        "raw": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
-        "spec": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+        "rawSpec": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
+        "spec": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/apm-install-dir-118223-1870-pht626.yta1jxajor"
+      "/private/tmp/apm-install-dir-118521-28804-4nh06f.zik03mzpvi"
     ]
   ],
-  "_from": "../d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+  "_from": "../d-118521-28804-zrglxe.xs8umcxr/package.tgz",
   "_id": "platformio-ide-terminal@2.8.1",
   "_inCache": true,
   "_location": "/platformio-ide-terminal",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+    "raw": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
-    "spec": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+    "rawSpec": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
+    "spec": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
+  "_resolved": "file:../d-118521-28804-zrglxe.xs8umcxr/package.tgz",
   "_shasum": "5a478e94174a7d3d79b92ec55f914afa9e2cca66",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/d-118223-1870-1u0u5ng.jfour9hpvi/package.tgz",
-  "_where": "/private/var/folders/t2/8bvr2h6n13jclqpq29c313gw0000gn/T/apm-install-dir-118223-1870-pht626.yta1jxajor",
+  "_spec": "/private/tmp/d-118521-28804-zrglxe.xs8umcxr/package.tgz",
+  "_where": "/private/tmp/apm-install-dir-118521-28804-4nh06f.zik03mzpvi",
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
