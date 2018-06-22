@@ -38,4 +38,12 @@
     ]
     devMode: true
   }
+  {
+    title: "replica-lodash"
+    group: "Nodejs"
+    paths: [
+      "~/Documents/WorkHome/GitHub/replica-lodash"
+    ]
+    devMode: true
+  }
 ]
