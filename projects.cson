@@ -35,6 +35,7 @@
     group: "Qingbao"
     paths: [
       "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/packages"
     ]
     devMode: true
   }
