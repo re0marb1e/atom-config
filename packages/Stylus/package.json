@@ -1,0 +1,66 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+        "spec": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+        "type": "local"
+      },
+      "/private/tmp/apm-install-dir-118525-21423-ywuwgf.nldf5hfr"
+    ]
+  ],
+  "_from": "../d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+  "_id": "Stylus@3.1.1",
+  "_inCache": true,
+  "_location": "/Stylus",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+    "spec": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+  "_shasum": "08580adb70f9c6a66fd57da49551dec030494d67",
+  "_shrinkwrap": null,
+  "_spec": "/private/tmp/d-118525-21423-1sjqcn8.77wv4e7b9/package.tgz",
+  "_where": "/private/tmp/apm-install-dir-118525-21423-ywuwgf.nldf5hfr",
+  "author": {
+    "name": "Matthew Harrison-Jones"
+  },
+  "bugs": {
+    "url": "https://github.com/matthojo/language-stylus/issues"
+  },
+  "dependencies": {},
+  "description": "Adds syntax highlighting and snippets to Stylus files in Atom.",
+  "devDependencies": {},
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "homepage": "https://github.com/matthojo/language-stylus",
+  "keywords": [
+    "stylus",
+    "language",
+    "atom"
+  ],
+  "license": "MIT",
+  "name": "Stylus",
+  "optionalDependencies": {},
+  "readme": "# Stylus language support in Atom (with extra snippets)\n\nAdds syntax highlighting and snippets to Stylus files in Atom.\n\nOriginally [converted](http://atom.io/docs/latest/converting-a-text-mate-bundle) from the [Stylus TextMate bundle](https://github.com/vgrichina/Stylus.tmbundle) and [Stylus Plus bundle](https://github.com/jackbrewer/stylus-plus.tmbundle).\n\nMassive hat-tip to https://github.com/billymoon/Stylus for a lot of the regex values.\n\nContributions are greatly appreciated. Please fork this repository and open a pull request to add snippets, make grammar tweaks, etc.\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matthojo/language-stylus.git"
+  },
+  "version": "3.1.1"
+}
