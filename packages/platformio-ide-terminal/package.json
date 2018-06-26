@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
+        "raw": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
-        "spec": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
+        "rawSpec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+        "spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
         "type": "local"
       },
-      "/private/tmp/apm-install-dir-118521-29312-1x2das1.4u3s3e4s4i"
+      "/private/tmp/apm-install-dir-118526-34959-w3xdov.134segsyvi"
     ]
   ],
-  "_from": "../d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
-  "_id": "platformio-ide-terminal@2.8.2",
+  "_from": "../d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+  "_id": "platformio-ide-terminal@2.8.3",
   "_inCache": true,
   "_location": "/platformio-ide-terminal",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
+    "raw": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
-    "spec": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
+    "rawSpec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+    "spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
-  "_shasum": "eb6380dbe227610c001e055e0c221e518df3045f",
+  "_resolved": "file:../d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+  "_shasum": "f1e59045c47e1358f97bac333893d59e22db32b9",
   "_shrinkwrap": null,
-  "_spec": "/private/tmp/d-118521-29312-ifn3t9.8box9od2t9/package.tgz",
-  "_where": "/private/tmp/apm-install-dir-118521-29312-1x2das1.4u3s3e4s4i",
+  "_spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+  "_where": "/private/tmp/apm-install-dir-118526-34959-w3xdov.134segsyvi",
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
@@ -113,5 +113,5 @@
     "type": "git",
     "url": "git+https://github.com/platformio/platformio-atom-ide-terminal.git"
   },
-  "version": "2.8.2"
+  "version": "2.8.3"
 }
