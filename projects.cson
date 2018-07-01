@@ -1,13 +1,5 @@
 [
   {
-    title: "Backend"
-    group: "Qingbao"
-    paths: [
-      "~/Documents/WorkHome/Qingbao/Backend"
-    ]
-    devMode: true
-  }
-  {
     title: "node-algorithm"
     group: "Nodejs"
     paths: [
@@ -23,28 +15,30 @@
     ]
   }
   {
-    title: "Frontend"
-    group: "Qingbao"
-    paths: [
-      "~/Documents/WorkHome/Qingbao/Frontend"
-    ]
-    devMode: true
-  }
-  {
     title: "alpha"
     group: "Qingbao"
+    color: "red"
     paths: [
       "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/packages"
     ]
     devMode: true
   }
   {
     title: "replica-lodash"
     group: "Nodejs"
+    color: "yellow"
     paths: [
       "~/Documents/WorkHome/GitHub/replica-lodash"
     ]
+    devMode: true
+  }
+  {
+    title: "scripts-after-macOS-install"
+    group: "Shell"
+    paths: [
+      "~/Documents/WorkHome/GitHub/scripts-after-macOS-install"
+    ]
+    color: "blue"
     devMode: true
   }
 ]
