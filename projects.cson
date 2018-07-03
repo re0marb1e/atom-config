@@ -1,35 +1,64 @@
 [
   {
-    title: "node-algorithm"
-    group: "Nodejs"
+    title: "alpha"
+    group: "Qingbao"
     paths: [
-      "~/Documents/WorkHome/GitHub/node-algorithm"
+      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
     ]
+    color: "red"
+    devMode: true
+  }
+  {
+    title: "schedule"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
+    ]
+    color: "red"
+    devMode: true
+  }
+  {
+    title: "data"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Backend/core-services/data"
+    ]
+    color: "red"
+    devMode: true
+  }
+  {
+    title: "xcx"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/xcx"
+    ]
+    color: "red"
     devMode: true
   }
   {
     title: "tech-blog"
     group: "Blog"
+    color: "green"
     paths: [
       "~/Documents/WorkHome/BitBucket/tech-blog"
     ]
   }
   {
-    title: "alpha"
-    group: "Qingbao"
-    color: "red"
+    title: "node-algorithm"
+    group: "Nodejs"
     paths: [
-      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
+      "~/Documents/WorkHome/GitHub/node-algorithm"
     ]
+    color: "yellow"
     devMode: true
   }
   {
     title: "replica-lodash"
     group: "Nodejs"
-    color: "yellow"
     paths: [
       "~/Documents/WorkHome/GitHub/replica-lodash"
     ]
+    color: "yellow"
     devMode: true
   }
   {
