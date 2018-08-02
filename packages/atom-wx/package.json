@@ -1,0 +1,58 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+        "scope": null,
+        "escapedName": null,
+        "name": null,
+        "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+        "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+        "type": "local"
+      },
+      "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-11872-96554-15p2t8f.lhry919k9"
+    ]
+  ],
+  "_from": "../d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+  "_id": "atom-wx@0.1.1",
+  "_inCache": true,
+  "_location": "/atom-wx",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+    "scope": null,
+    "escapedName": null,
+    "name": null,
+    "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+    "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+    "type": "local"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "file:../d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+  "_shasum": "2bd2d278b0f4e51e0d7f2285dcca6c808849ef58",
+  "_shrinkwrap": null,
+  "_spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-11872-96554-fswowi.7q9kck57b9/package.tgz",
+  "_where": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-11872-96554-15p2t8f.lhry919k9",
+  "bugs": {
+    "url": "https://github.com/remobile/atom-wx/issues"
+  },
+  "dependencies": {},
+  "description": "微信小程序语法高亮(atom-wx), 支持 wxml 文件和 wxss 文件",
+  "devDependencies": {},
+  "engines": {
+    "atom": "*"
+  },
+  "homepage": "https://github.com/remobile/atom-wx#readme",
+  "license": "MIT",
+  "name": "atom-wx",
+  "optionalDependencies": {},
+  "readme": "# 微信小程序语法高亮(atom-wx)\n\n- 支持 wxml 文件语法高亮\n- 支持 wxss 文件语法高亮\n\n\n### 安装\n- run `apm install vim-mode`\n\n### 来源\n- 代码来源于官方的 language-xml 和 language-css\n",
+  "readmeFilename": "README.md",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/remobile/atom-wx.git"
+  },
+  "version": "0.1.1"
+}
