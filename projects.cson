@@ -36,12 +36,21 @@
     devMode: true
   }
   {
+    title: "wx-xcx"
+    group: "Qingbao"
+    paths: [
+      "~/Documents/WorkHome/Qingbao/Frontend/alphaX/wx-xcx"
+    ]
+    color: "red"
+    devMode: true
+  }
+  {
     title: "tech-blog"
     group: "Blog"
-    color: "green"
     paths: [
       "~/Documents/WorkHome/BitBucket/tech-blog"
     ]
+    color: "green"
   }
   {
     title: "node-algorithm"
