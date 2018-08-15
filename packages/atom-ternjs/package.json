@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+        "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
-        "spec": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+        "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
+        "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
         "type": "local"
       },
-      "/private/tmp/apm-install-dir-11851-4932-stsg2r.n1csaif6r"
+      "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118715-18823-w9z9q.cez1cq5mi"
     ]
   ],
-  "_from": "../d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+  "_from": "../d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
   "_id": "atom-ternjs@0.18.3",
   "_inCache": true,
   "_location": "/atom-ternjs",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+    "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
-    "spec": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+    "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
+    "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
+  "_resolved": "file:../d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
   "_shasum": "bfaf0b78f2083e2b3c150d7f75facf4b8c3a903c",
   "_shrinkwrap": null,
-  "_spec": "/private/tmp/d-11851-4932-1mqmw5r.e1elys0pb9/package.tgz",
-  "_where": "/private/tmp/apm-install-dir-11851-4932-stsg2r.n1csaif6r",
+  "_spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-18823-1s42fct.ep2bqyf1or/package.tgz",
+  "_where": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118715-18823-w9z9q.cez1cq5mi",
   "activationCommands": {
     "atom-workspace": [
       "atom-ternjs:openConfig"
