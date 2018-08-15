@@ -4,24 +4,9 @@
     group: "Qingbao"
     paths: [
       "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
-    ]
-    color: "red"
-    devMode: true
-  }
-  {
-    title: "schedule"
-    group: "Qingbao"
-    paths: [
-      "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
-    ]
-    color: "red"
-    devMode: true
-  }
-  {
-    title: "data"
-    group: "Qingbao"
-    paths: [
       "~/Documents/WorkHome/Qingbao/Backend/core-services/data"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/3rd-api"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
     ]
     color: "red"
     devMode: true
@@ -31,18 +16,18 @@
     group: "Qingbao"
     paths: [
       "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/xcx"
+      "~/Documents/WorkHome/Qingbao/Frontend/alphaX/wx-xcx"
     ]
     color: "red"
     devMode: true
   }
   {
-    title: "wx-xcx"
-    group: "Qingbao"
+    title: "re0marb1e-blog"
+    group: "Blog"
     paths: [
-      "~/Documents/WorkHome/Qingbao/Frontend/alphaX/wx-xcx"
+      "~/Documents/WorkHome/BitBucket/re0marb1e-blog"
     ]
-    color: "red"
-    devMode: true
+    color: "green"
   }
   {
     title: "tech-blog"
