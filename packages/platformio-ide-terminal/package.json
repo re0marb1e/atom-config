@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+        "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
-        "spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+        "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
+        "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
         "type": "local"
       },
-      "/private/tmp/apm-install-dir-118526-34959-w3xdov.134segsyvi"
+      "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118715-27947-1u7uagd.96kkt0ggb9"
     ]
   ],
-  "_from": "../d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
-  "_id": "platformio-ide-terminal@2.8.3",
+  "_from": "../d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
+  "_id": "platformio-ide-terminal@2.8.4",
   "_inCache": true,
   "_location": "/platformio-ide-terminal",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+    "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
-    "spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
+    "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
+    "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
-  "_shasum": "f1e59045c47e1358f97bac333893d59e22db32b9",
+  "_resolved": "file:../d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
+  "_shasum": "0c757212efe8fb0cf02bde9b96ccbc9348a4e3e2",
   "_shrinkwrap": null,
-  "_spec": "/private/tmp/d-118526-34959-5ykuyf.zocbrcnmi/package.tgz",
-  "_where": "/private/tmp/apm-install-dir-118526-34959-w3xdov.134segsyvi",
+  "_spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118715-27947-7wi22k.oz1fr2uik9/package.tgz",
+  "_where": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118715-27947-1u7uagd.96kkt0ggb9",
   "activationHooks": [
     "core:loaded-shell-environment"
   ],
@@ -64,7 +64,7 @@
     }
   ],
   "dependencies": {
-    "atom-space-pen-views": "^2.1.0",
+    "atom-space-pen-views": "^2.2.0",
     "pty.js": "https://github.com/platformio/pty.js/tarball/prebuilt",
     "term.js": "https://github.com/jeremyramin/term.js/tarball/master",
     "underscore": "^1.8.3"
@@ -113,5 +113,5 @@
     "type": "git",
     "url": "git+https://github.com/platformio/platformio-atom-ide-terminal.git"
   },
-  "version": "2.8.3"
+  "version": "2.8.4"
 }
