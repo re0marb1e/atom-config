@@ -5,8 +5,9 @@
     paths: [
       "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
       "~/Documents/WorkHome/Qingbao/Backend/core-services/data"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/3rd-api"
       "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/3rd-api"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/config"
     ]
     color: "red"
     devMode: true
@@ -62,6 +63,13 @@
       "~/Documents/WorkHome/GitHub/scripts-after-macOS-install"
     ]
     color: "blue"
+    devMode: true
+  }
+  {
+    title: "vue-terminal-emulator"
+    paths: [
+      "~/Documents/WorkHome/GitHub/vue-terminal-emulator"
+    ]
     devMode: true
   }
 ]

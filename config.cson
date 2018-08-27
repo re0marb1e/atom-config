@@ -3,12 +3,24 @@
     jsx:
       indent_size: 2
     markdown: {}
+    vue:
+      indent_size: 2
   "atom-clock":
     showTooltip: true
   "atom-ide-ui":
     use:
       "atom-ide-diagnostics-ui": "never"
   core:
+    ignoredNames: [
+      ".git"
+      ".hg"
+      ".svn"
+      ".DS_Store"
+      "._*"
+      "Thumbs.db"
+      "desktop.ini"
+      "node_modules"
+    ]
     packagesWithKeymapsDisabled: []
     telemetryConsent: "no"
     useProxySettingsWhenCallingApm: false
