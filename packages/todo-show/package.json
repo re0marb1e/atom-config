@@ -2,39 +2,39 @@
   "_args": [
     [
       {
-        "raw": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
+        "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
         "scope": null,
         "escapedName": null,
         "name": null,
-        "rawSpec": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
-        "spec": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
+        "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
+        "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
         "type": "local"
       },
-      "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/apm-install-dir-118431-67900-18i0pgk.xzatqehfr"
+      "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118727-15403-1m4lpiz.ec31kprpb9"
     ]
   ],
-  "_from": "../d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
-  "_id": "todo-show@2.3.0",
+  "_from": "../d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
+  "_id": "todo-show@2.3.2",
   "_inCache": true,
   "_location": "/todo-show",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
+    "raw": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
     "scope": null,
     "escapedName": null,
     "name": null,
-    "rawSpec": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
-    "spec": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
+    "rawSpec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
+    "spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
     "type": "local"
   },
   "_requiredBy": [
     "#USER"
   ],
-  "_resolved": "file:../d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
-  "_shasum": "20c87666b102845b1fd4b3b68d2b720c793a3dc1",
+  "_resolved": "file:../d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
+  "_shasum": "b24537d53e46bc69cc6608d4c4ec03ac8ad5b0f1",
   "_shrinkwrap": null,
-  "_spec": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/d-118431-67900-wfrp4w.ay2w1dobt9/package.tgz",
-  "_where": "/private/var/folders/j1/dhy1tz2n2qg5yt9myl0kp5c00000gn/T/apm-install-dir-118431-67900-18i0pgk.xzatqehfr",
+  "_spec": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/d-118727-15403-12zbvrh.rwb384cxr/package.tgz",
+  "_where": "/private/var/folders/6z/29sf95qs7rz1ppkn0ykqr2580000gn/T/apm-install-dir-118727-15403-1m4lpiz.ec31kprpb9",
   "bugs": {
     "url": "https://github.com/mrodalgaard/atom-todo-show/issues"
   },
@@ -160,5 +160,5 @@
     "type": "git",
     "url": "git+https://github.com/mrodalgaard/atom-todo-show.git"
   },
-  "version": "2.3.0"
+  "version": "2.3.2"
 }
