@@ -8,16 +8,7 @@
       "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
       "~/Documents/WorkHome/Qingbao/Backend/framework/3rd-api"
       "~/Documents/WorkHome/Qingbao/Backend/framework/config"
-    ]
-    color: "red"
-    devMode: true
-  }
-  {
-    title: "xcx"
-    group: "Qingbao"
-    paths: [
-      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/xcx"
-      "~/Documents/WorkHome/Qingbao/Frontend/alphaX/wx-xcx"
+      "~/Documents/WorkHome/Qingbao/Backend/framework/packages"
     ]
     color: "red"
     devMode: true
