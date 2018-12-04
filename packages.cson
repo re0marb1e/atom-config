@@ -1,0 +1,14 @@
+packages: [
+  "package-sync",
+  "atom-beautify",
+  "atom-clock",
+  "atom-ternjs",
+  "file-icons",
+  "editorconfig",
+  "language-vue",
+  "minimap",
+  "platformio-ide-terminal",
+  "project-manager",
+  "react",
+  "todo-show"
+]
