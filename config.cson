@@ -11,9 +11,6 @@
     use:
       "atom-ide-diagnostics-ui": "never"
   core:
-    disabledPackages: [
-      "language-babel"
-    ]
     ignoredNames: [
       ".git"
       ".hg"
