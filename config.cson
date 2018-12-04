@@ -11,6 +11,9 @@
     use:
       "atom-ide-diagnostics-ui": "never"
   core:
+    disabledPackages: [
+      "react"
+    ]
     ignoredNames: [
       ".git"
       ".hg"

@@ -1,19 +1,5 @@
 [
   {
-    title: "alpha"
-    group: "Qingbao"
-    paths: [
-      "~/Documents/WorkHome/Qingbao/Backend/alpha-objects/alpha"
-      "~/Documents/WorkHome/Qingbao/Backend/core-services/data"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/schedule"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/3rd-api"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/config"
-      "~/Documents/WorkHome/Qingbao/Backend/framework/packages"
-    ]
-    color: "red"
-    devMode: true
-  }
-  {
     title: "re0marb1e-blog"
     group: "Blog"
     paths: [
@@ -34,15 +20,6 @@
     group: "Nodejs"
     paths: [
       "~/Documents/WorkHome/GitHub/node-algorithm"
-    ]
-    color: "yellow"
-    devMode: true
-  }
-  {
-    title: "replica-lodash"
-    group: "Nodejs"
-    paths: [
-      "~/Documents/WorkHome/GitHub/replica-lodash"
     ]
     color: "yellow"
     devMode: true
