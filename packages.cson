@@ -1,14 +1,19 @@
 packages: [
-  "package-sync",
-  "atom-beautify",
-  "atom-clock",
-  "atom-ternjs",
-  "file-icons",
-  "editorconfig",
-  "language-vue",
-  "minimap",
-  "platformio-ide-terminal",
-  "project-manager",
-  "react",
+  "atom-beautify"
+  "atom-clock"
+  "atom-ide-ui"
+  "atom-ternjs"
+  "atom-wx"
+  "editorconfig"
+  "file-icons"
+  "highlight-selected"
+  "language-vue"
+  "linter"
+  "minimap"
+  "package-sync"
+  "platformio-ide-terminal"
+  "project-manager"
+  "react"
+  "Stylus"
   "todo-show"
 ]
